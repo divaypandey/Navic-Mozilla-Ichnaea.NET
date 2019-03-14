@@ -4,5 +4,6 @@ namespace Navic_MozillaIchnaea
 {
     public class Start
     {
+
     }
 }
